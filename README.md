@@ -1,2 +1,3 @@
 # burn37.github.io
-Burn37 things
+
+Burn37 things.
